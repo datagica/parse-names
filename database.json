@@ -2487,6 +2487,10 @@
         "gender": ["m"],
         "culture": ["french", "portuguese"]
     }, {
+        "name": "andré-marie",
+        "gender": ["m"],
+        "culture": ["french"]
+    }, {
         "name": "andrea",
         "gender": ["m", "f"],
         "culture": ["italian", "english", "german", "czech", "slovak", "hungarian", "candinavian"]
